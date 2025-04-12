@@ -11,7 +11,7 @@ In short, you earn $BITZ tokens by mining. There is no financial return for the 
 ### Preparing the server
 ```console
 # First, update your distro
-sudo apt update && apt upgrade -y
+Rust, Solana CLI vs
 
 # Install dependencies
 apt install build-essential git curl gcc make jq clang protobuf-compiler pkg-config libssl-dev -y
